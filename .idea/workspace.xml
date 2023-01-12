@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdf12516-026b-41cf-ac86-185dcecb2952" name="Changes" comment="Final Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/Typing_Master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/libraries/OknoGlowne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/libraries/bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/libraries/javafx_web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/OknoGlowne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/OknoGlowne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/OknoGlowne.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/OknoGlowne.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/OknoGlowne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/PopUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/Stoper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/Warning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/class-use/OknoGlowne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/class-use/PopUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/class-use/Stoper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/class-use/Warning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/class-use/sprawdzanie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/oknoglowne/sprawdzanie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/dtjava.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/get_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/get_javafx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/javafx-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/javafx-loading-100x100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/javafx-loading-25x25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/upgrade_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/dist/web-files/upgrade_javafx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/UPDATED.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/jfx-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/jfx-impl_backup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/private/configs/Run_as_WebStart.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/private/configs/Run_in_Browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/OknoGlowne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/OknoGlowne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/PopUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/Stoper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/Warning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/klawiatura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/sprawdz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/tryb1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/tryb2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/sprawdzanie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/oknoglowne/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/OknoGlowne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/resources/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/out/production/OknoGlowne/out/production/OknoGlowne/oknoglowne/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/OknoGlowne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/OknoGlowne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/PopUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/Stoper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/Warning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources(zapasowe)/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/klawiatura.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/sprawdz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/tryb1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/tryb2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/resources/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/sprawdzanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/oknoglowne/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/OknoGlowne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/OknoGlowne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/PopUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/Stoper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/Warning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources(zapasowe)/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/dobrze.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/how.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/poziom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/poziom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/poziom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/poziom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/slowa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/slowa2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/slowa3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/tlo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/transp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/twoje.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/wroc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/resources/zle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/sprawdzanie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OknoGlowne/src/out/production/OknoGlowne/oknoglowne/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/jquery-ui.overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/OknoGlowne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/PopUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/Stoper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/Warning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/oknoglowne/sprawdzanie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="220afa7c-56be-47a5-bd91-e375c32906a7" />
+        <option name="url" value="https://github.com/Szati93/Typing_Master.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KEh4N5JRby1JGgJY3aisXTqVtT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../javafx-sdk-19/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oknoglowne.OknoGlowne" />
+      <module name="Typing_Master" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\Szatanek\Desktop\javafx-sdk-19\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf12516-026b-41cf-ac86-185dcecb2952" name="Changes" comment="" />
+      <created>1673545589830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673545589830</updated>
+      <workItem from="1673545602796" duration="1726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
+  </component>
+</project>

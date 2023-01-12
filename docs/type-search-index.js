@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"oknoglowne","l":"OknoGlowne"},{"p":"oknoglowne","l":"PopUp"},{"p":"oknoglowne","l":"sprawdzanie"},{"p":"oknoglowne","l":"Stoper"},{"p":"oknoglowne","l":"Warning"}];updateSearchResults();
